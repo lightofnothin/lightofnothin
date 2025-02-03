@@ -1,4 +1,4 @@
-- hello @lightofnothin
+- hello i'm @lightofnothin
 - i’m interested in both software and hardware
 - i am in university, i'm an eletrical and computer engineering major
 - i’m currently learning tons of hardware stuff in general and various things in software
